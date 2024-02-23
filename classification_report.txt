@@ -1,0 +1,8 @@
+                                                                           precision    recall  f1-score   support
+
+    C:\Users\hp\OneDrive\Desktop\drowness of eye detection\dataset\Drowsy     0.9917    1.0000    0.9958       238
+C:\Users\hp\OneDrive\Desktop\drowness of eye detection\dataset\Non Drowsy     1.0000    0.9847    0.9923       131
+
+                                                                 accuracy                         0.9946       369
+                                                                macro avg     0.9958    0.9924    0.9941       369
+                                                             weighted avg     0.9946    0.9946    0.9946       369
